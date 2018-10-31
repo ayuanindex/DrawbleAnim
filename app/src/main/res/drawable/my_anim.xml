@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:oneshot="false"
+    tools:ignore="MissingDefaultResource">
+    <!--
+        oneshot:取值为true表示只执行一次false表示执行很多次
+        duration:表示图片显示的时长
+    -->
+    <item
+        android:drawable="@drawable/girl_1"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/girl_2"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/girl_3"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/girl_4"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/girl_5"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/girl_6"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/girl_7"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/girl_8"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/girl_9"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/girl_10"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/girl_11"
+        android:duration="100" />
+</animation-list>
